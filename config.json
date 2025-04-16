@@ -1,0 +1,154 @@
+{
+    
+    "default": {
+        "firstScene": "biblio1",
+        "sceneFadeDuration": 1000,
+	"autoLoad":true
+    },
+    
+    "scenes": {
+        "biblio1": {
+            "title": "Biblioteca",
+            "hfov": 110,
+            "type": "equirectangular",
+            "panorama": "./imagenes/biblioteca/biblio1.jpg",
+            "hotSpots": [
+		{
+			"pitch": 14.1,
+			"yaw": -140,
+			"type": "info",
+			"text": "Pasillo"
+	     
+		},
+		{
+			"pitch": 5.1,
+			"yaw": 180,
+			"type": "info",
+			"text": "Ordenadores"
+		},
+		
+		{
+                    "pitch": -0.9,
+                    "yaw": 0,
+                    "type": "scene",
+                    "text": "Biblioteca",
+                    "sceneId": "biblio2",
+		    "targetYaw": 0,
+                    "targetPitch": 0
+                },
+		{
+                    "pitch": -0.9,
+                    "yaw": -90,
+                    "type": "scene",
+                    "text": "Ludoteca",
+                    "sceneId": "ludoteca",
+		    "targetYaw": 0,
+                    "targetPitch": 0
+                },
+		{
+			"pitch": -25.1,
+			"yaw": -3,
+			"type": "info",
+			"text": "La biblioteca se ha remodelado recientemente conforme el proyecto Aules de Futur",
+			"URL":"https://www.youtube.com/watch?v=jp_DhmQ0pW8"
+			
+		}
+    ]
+        },
+
+        "biblio2": {
+            "title": "Biblioteca2",
+            "hfov": 110,
+            "yaw": 5,
+            "type": "equirectangular",
+            "panorama": "./imagenes/biblioteca/biblio2.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "Biblioteca",
+                    "sceneId": "biblio1",
+                    "targetYaw": 180,
+                    "targetPitch": 0
+                },
+		{
+                    "pitch": 0,
+                    "yaw": 90,
+                    "type": "scene",
+                    "text": "Terraza",
+                    "sceneId": "terraza",
+                    "targetYaw": 0,
+                    "targetPitch": 0
+                }
+            ]
+        },
+	 "ludoteca": {
+            "title": "Ludoteca",
+            "hfov": 110,
+            "yaw": 5,
+            "type": "equirectangular",
+            "panorama": "./imagenes/biblioteca/ludoteca.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "Biblioteca",
+                    "sceneId": "biblio1",
+                    "targetYaw": 90,
+                    "targetPitch": 0
+                }
+            ]
+        }
+	,
+	 "terraza": {
+            "title": "Terraza",
+            "hfov": 110,
+            "yaw": 5,
+            "type": "equirectangular",
+            "panorama": "./imagenes/biblioteca/biblioTer.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "Biblioteca",
+                    "sceneId": "biblio2",
+                    "targetYaw": -90,
+                    "targetPitch": 0
+                }
+            ]
+        }
+    }
+    
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+   
