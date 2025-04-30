@@ -40,7 +40,7 @@
                     "pitch": -0.9,
                     "yaw": -90,
                     "type": "scene",
-                    "text": "Ludoteca",
+                    "text": "LudotecaOld",
                     "sceneId": "ludoteca",
 		    "targetYaw": 0,
                     "targetPitch": 0
