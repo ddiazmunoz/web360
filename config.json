@@ -14,12 +14,14 @@
             "panorama": "./imagenes/biblioteca/biblio1.jpg",
             "hotSpots": [
 		{
-			"pitch": 14.1,
-			"yaw": -140,
-			"type": "info",
-			"text": "Pasillo"
-	     
-		},
+                    "pitch": -0.9,
+                    "yaw": -90,
+                    "type": "scene",
+                    "text": "Pasillo",
+                    "sceneId": "adminPasillo1",
+		    "targetYaw": 0,
+                    "targetPitch": 0
+                },
 		{
 			"pitch": 5.1,
 			"yaw": 180,
@@ -99,6 +101,55 @@
                     "targetYaw": 90,
                     "targetPitch": 0
                 }
+            ]
+        }
+	,
+	"adminPasillo1": {
+            "title": "Pasillo",
+            "hfov": 110,
+            "yaw": 5,
+            "type": "equirectangular",
+            "panorama": "./imagenes/administracion/pasillo1.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "Biblioteca",
+                    "sceneId": "biblio1",
+                    "targetYaw": 90,
+                    "targetPitch": 0
+                },
+				{
+                    "pitch": 0,
+                    "yaw": 0,
+                    "type": "scene",
+                    "text": "Pasillo",
+                    "sceneId": "adminPasillo2",
+                    "targetYaw": 90,
+                    "targetPitch": 0
+                }
+				
+            ]
+        }
+	,
+	"adminPasillo2": {
+            "title": "Pasillo",
+            "hfov": 110,
+            "yaw": 5,
+            "type": "equirectangular",
+            "panorama": "./imagenes/administracion/pasillo2.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "Pasillo",
+                    "sceneId": "adminPasillo11",
+                    "targetYaw": 90,
+                    "targetPitch": 0
+                }
+				
             ]
         }
 	,
