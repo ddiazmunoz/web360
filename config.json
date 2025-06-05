@@ -40,8 +40,8 @@
                     "pitch": -0.9,
                     "yaw": -90,
                     "type": "scene",
-                    "text": "LudotecaOld",
-                    "sceneId": "ludoteca",
+                    "text": "Biblioteca",
+                    "sceneId": "biblio3",
 		    "targetYaw": 0,
                     "targetPitch": 0
                 },
@@ -83,12 +83,12 @@
                 }
             ]
         },
-	 "ludoteca": {
-            "title": "Ludoteca",
+	 "biblio3": {
+            "title": "Biblioteca",
             "hfov": 110,
             "yaw": 5,
             "type": "equirectangular",
-            "panorama": "./imagenes/biblioteca/ludoteca.jpg",
+            "panorama": "./imagenes/biblioteca/biblio3.jpg",
             "hotSpots": [
                 {
                     "pitch": 0,
