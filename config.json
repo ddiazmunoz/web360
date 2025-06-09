@@ -14,11 +14,11 @@
             "panorama": "./imagenes/biblioteca/biblio1.jpg",
             "hotSpots": [
 		{
-                    "pitch": -5.1,
-                    "yaw": 180,
+                    "pitch": 6.1,
+                    "yaw": 0,
                     "type": "scene",
                     "text": "Pasillo",
-                    "sceneId": "adminPasillo1",
+                    "sceneId": "biblio2",
 		    "targetYaw": 0,
                     "targetPitch": 0
                 },
