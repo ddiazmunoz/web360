@@ -14,8 +14,8 @@
             "panorama": "./imagenes/biblioteca/biblio1.jpg",
             "hotSpots": [
 		{
-                    "pitch": -0.9,
-                    "yaw": -90,
+                    "pitch": -5.1,
+                    "yaw": 180,
                     "type": "scene",
                     "text": "Pasillo",
                     "sceneId": "adminPasillo1",
