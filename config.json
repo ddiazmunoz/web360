@@ -15,7 +15,7 @@
             "hotSpots": [
 		{
                     "pitch": 6.1,
-                    "yaw": 0,
+                    "yaw": 170,
                     "type": "scene",
                     "text": "Pasillo",
                     "sceneId": "adminPasillo1",
