@@ -144,7 +144,147 @@
                     "yaw": 180,
                     "type": "scene",
                     "text": "Pasillo",
-                    "sceneId": "adminPasillo1",
+                    "sceneId": "pasillo2_013",
+                    "targetYaw": 90,
+                    "targetPitch": 0
+                }
+				
+            ]
+        }
+	,
+	"pasillo2_013": {
+            "title": "Pasillo",
+            "hfov": 110,
+            "yaw": 5,
+            "type": "equirectangular",
+            "panorama": "./imagenes/2PisoPasillo/pasillo2_013.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "Pasillo",
+                    "sceneId": "pasillo2_014",
+                    "targetYaw": 90,
+                    "targetPitch": 0
+                }
+				
+            ]
+        }
+	,
+	"pasillo2_014": {
+            "title": "Pasillo",
+            "hfov": 110,
+            "yaw": 5,
+            "type": "equirectangular",
+            "panorama": "./imagenes/2PisoPasillo/pasillo2_014.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "Pasillo",
+                    "sceneId": "pasillo2_015",
+                    "targetYaw": 90,
+                    "targetPitch": 0
+                }
+				
+            ]
+        }
+	,
+	"pasillo2_015": {
+            "title": "Pasillo",
+            "hfov": 110,
+            "yaw": 5,
+            "type": "equirectangular",
+            "panorama": "./imagenes/2PisoPasillo/pasillo2_015.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "Pasillo",
+                    "sceneId": "pasillo2_016",
+                    "targetYaw": 90,
+                    "targetPitch": 0
+                }
+				
+            ]
+        }
+	,
+	"pasillo2_016": {
+            "title": "Pasillo",
+            "hfov": 110,
+            "yaw": 5,
+            "type": "equirectangular",
+            "panorama": "./imagenes/2PisoPasillo/pasillo2_016.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "Pasillo",
+                    "sceneId": "pasillo2_017",
+                    "targetYaw": 90,
+                    "targetPitch": 0
+                }
+				
+            ]
+        }
+	,
+	"pasillo2_017": {
+            "title": "Pasillo",
+            "hfov": 110,
+            "yaw": 5,
+            "type": "equirectangular",
+            "panorama": "./imagenes/2PisoPasillo/pasillo2_017.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "Pasillo",
+                    "sceneId": "pasillo2_018",
+                    "targetYaw": 90,
+                    "targetPitch": 0
+                }
+				
+            ]
+        }
+	,
+	"pasillo2_018": {
+            "title": "Pasillo",
+            "hfov": 110,
+            "yaw": 5,
+            "type": "equirectangular",
+            "panorama": "./imagenes/2PisoPasillo/pasillo2_018.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "Pasillo",
+                    "sceneId": "pasillo2_001",
+                    "targetYaw": 90,
+                    "targetPitch": 0
+                }
+				
+            ]
+        }
+	,
+	"pasillo2_001": {
+            "title": "Pasillo",
+            "hfov": 110,
+            "yaw": 5,
+            "type": "equirectangular",
+            "panorama": "./imagenes/2PisoPasillo/pasillo2_001.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "Pasillo",
+                    "sceneId": "pasillo2_001",
                     "targetYaw": 90,
                     "targetPitch": 0
                 }
