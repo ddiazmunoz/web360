@@ -145,7 +145,7 @@
                     "type": "scene",
                     "text": "Pasillo",
                     "sceneId": "pasillo2_013",
-                    "targetYaw": 90,
+                    "targetYaw": 0,
                     "targetPitch": 0
                 }
 				
