@@ -165,7 +165,7 @@
                     "type": "scene",
                     "text": "Pasillo",
                     "sceneId": "pasillo2_014",
-                    "targetYaw": 90,
+                    "targetYaw": 0,
                     "targetPitch": 0
                 }
 				
@@ -185,7 +185,7 @@
                     "type": "scene",
                     "text": "Pasillo",
                     "sceneId": "pasillo2_015",
-                    "targetYaw": 90,
+                    "targetYaw": 0,
                     "targetPitch": 0
                 }
 				
@@ -360,7 +360,7 @@
             "panorama": "./imagenes/2PisoPasillo/pasillo2_005.jpg",
             "hotSpots": [
                 {
-                    "pitch": 0,
+                    "pitch": 180,
                     "yaw": 0,
                     "type": "scene",
                     "text": "Pasillo",
