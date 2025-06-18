@@ -15,7 +15,7 @@
             "hotSpots": [
 		{
                     "pitch": 0,
-                    "yaw": -150,
+                    "yaw": -145,
                     "type": "scene",
                     "text": "Pasillo",
                     "sceneId": "adminPasillo1",
@@ -40,7 +40,7 @@
                 },
 		{
                     "pitch": -0.9,
-                    "yaw": -90,
+                    "yaw": -95,
                     "type": "scene",
                     "text": "Biblioteca",
                     "sceneId": "biblio3",
@@ -59,7 +59,7 @@
 		
 		{
                     "pitch": 0,
-                    "yaw": -45,
+                    "yaw": -40,
                     "type": "scene",
                     "text": "Entrada Patio",
                     "sceneId": "BiblioEnt",
