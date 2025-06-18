@@ -58,7 +58,7 @@
 		},
 		
 		{
-                    "pitch": -0.9,
+                    "pitch": 0,
                     "yaw": -60,
                     "type": "scene",
                     "text": "Entrada Patio",
@@ -96,7 +96,7 @@
                 },
 		{
                     "pitch": 0,
-                    "yaw": -160,
+                    "yaw": -140,
                     "type": "scene",
                     "text": "Entrada Patio",
                     "sceneId": "BiblioEnt",
