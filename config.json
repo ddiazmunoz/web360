@@ -59,7 +59,7 @@
 		
 		{
                     "pitch": 0,
-                    "yaw": -40,
+                    "yaw": -70,
                     "type": "scene",
                     "text": "Entrada Patio",
                     "sceneId": "BiblioEnt",
@@ -96,7 +96,7 @@
                 },
 		{
                     "pitch": 0,
-                    "yaw": -140,
+                    "yaw": -130,
                     "type": "scene",
                     "text": "Entrada Patio",
                     "sceneId": "BiblioEnt",
@@ -439,10 +439,19 @@
             "hotSpots": [
                 {
                     "pitch": 0,
-                    "yaw": 180,
+                    "yaw": -90,
                     "type": "scene",
                     "text": "Biblioteca",
                     "sceneId": "biblio2",
+                    "targetYaw": -90,
+                    "targetPitch": 0
+                },
+				{
+                    "pitch": 0,
+                    "yaw": 0,
+                    "type": "scene",
+                    "text": "Terraza",
+                    "sceneId": "terraza2",
                     "targetYaw": -90,
                     "targetPitch": 0
                 }
