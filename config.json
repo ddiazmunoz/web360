@@ -397,7 +397,26 @@
             "hfov": 110,
             "yaw": 5,
             "type": "equirectangular",
-            "panorama": "./imagenes/biblioteca/biblioTer.jpg",
+            "panorama": "./imagenes/biblioteca/biblioTer1.jpg",
+            "hotSpots": [
+                {
+                    "pitch": 0,
+                    "yaw": 180,
+                    "type": "scene",
+                    "text": "Biblioteca",
+                    "sceneId": "biblio2",
+                    "targetYaw": -90,
+                    "targetPitch": 0
+                }
+            ]
+        }
+	,
+	"terraza2": {
+            "title": "Terraza",
+            "hfov": 110,
+            "yaw": 5,
+            "type": "equirectangular",
+            "panorama": "./imagenes/biblioteca/biblioTer2.jpg",
             "hotSpots": [
                 {
                     "pitch": 0,
