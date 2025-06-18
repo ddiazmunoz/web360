@@ -15,7 +15,7 @@
             "hotSpots": [
 		{
                     "pitch": 6.1,
-                    "yaw": 120,
+                    "yaw": -160,
                     "type": "scene",
                     "text": "Pasillo",
                     "sceneId": "adminPasillo1",
@@ -47,6 +47,7 @@
 		    "targetYaw": 0,
                     "targetPitch": 0
                 },
+				
 		{
 			"pitch": -25.1,
 			"yaw": -3,
@@ -54,7 +55,17 @@
 			"text": "La biblioteca se ha remodelado recientemente conforme el proyecto Aules de Futur FOTO VIEJA",
 			"URL":"https://www.youtube.com/watch?v=jp_DhmQ0pW8"
 			
-		}
+		},
+		
+		{
+                    "pitch": -0.9,
+                    "yaw": -60,
+                    "type": "scene",
+                    "text": "Entrada Patio",
+                    "sceneId": "BiblioEnt",
+					"targetYaw": 0,
+                    "targetPitch": 0
+                }
     ]
         },
 
@@ -85,7 +96,7 @@
                 },
 		{
                     "pitch": 0,
-                    "yaw": -90,
+                    "yaw": -160,
                     "type": "scene",
                     "text": "Entrada Patio",
                     "sceneId": "BiblioEnt",
