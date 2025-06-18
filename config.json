@@ -59,7 +59,7 @@
 		
 		{
                     "pitch": 0,
-                    "yaw": -70,
+                    "yaw": -55,
                     "type": "scene",
                     "text": "Entrada Patio",
                     "sceneId": "BiblioEnt",
@@ -452,7 +452,7 @@
                     "type": "scene",
                     "text": "Terraza",
                     "sceneId": "terraza2",
-                    "targetYaw": -90,
+                    "targetYaw": 0,
                     "targetPitch": 0
                 }
             ]
@@ -469,8 +469,8 @@
                     "pitch": 0,
                     "yaw": 180,
                     "type": "scene",
-                    "text": "Biblioteca",
-                    "sceneId": "biblio2",
+                    "text": "Terraza",
+                    "sceneId": "terraza",
                     "targetYaw": -90,
                     "targetPitch": 0
                 }
